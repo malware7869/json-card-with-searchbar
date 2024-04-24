@@ -1,0 +1,75 @@
+[
+    {
+        
+        "image":"products/001.jpg",
+        "title": "Rolex",
+        "description": "Apple Watch SE (2nd Gen) [GPS]",
+        "price": "7,000"
+        
+    },
+    {
+        
+        "image":"products/002.jpg",
+        "title": "RolexAudemars Piguet",
+        "description": "Samsung Galaxy Watch 4",
+        "price": "20,000"
+        
+    },
+    {
+    
+        
+        "image":"products/001.jpg",
+        "title": "Richard Mille",
+        "description": "Fossil Gen 6 Smartwatch",
+        "price": "6,000"
+        
+    },
+    {
+        
+        "image":"products/002.jpg",
+        "title": "F.P. Journe",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/001.jpg",
+        "title": "Audemars Piguet",
+        "description": "Apple Watch SE (2nd Gen) [GPS]",
+        "price": "4,000"
+       
+    },
+    {
+        
+        "image":"products/002.jpg",
+        "title": "Richard Mille",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/001.jpg",
+        "title": "Patek Philippe",
+        "description": "Apple Watch SE (2nd Gen) [GPS]",
+        "price": "4,000"
+       
+    },
+    {
+        
+        "image":"products/002.jpg",
+        "title": "Audemars Piguet",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"products/001.jpg",
+        "title": "Richard Mille",
+        "description": "Apple Watch SE (2nd Gen) [GPS]",
+        "price": "4,000"
+       
+    }
+]
